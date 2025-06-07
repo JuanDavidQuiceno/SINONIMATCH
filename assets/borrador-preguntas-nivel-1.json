@@ -4,16 +4,263 @@
         "score_min": 10,
         "pregunta": [
             {
-                "titulo": "Cual es el antónimo de 'feliz'?",
-                "respuesta": "triste",
-                "puntos": 10,
-                "explicacion": "El antónimo de 'feliz' es 'triste'.",
-                "imagen": "assets/demo/recomendaciones2.txt",
+                "titulo": "Elige el sinónimo de FELIZ",
+                "respuesta": "Contento",
+                "puntos": 1,
+                "explicacion": "Es un estado de ánimo que se siente cuando todo va bien y hay alegría.",
+                "imagen": "assets/nivel-1/cara-feliz.png",
                 "opciones": [
-                    "triste",
-                    "alegre",
-                    "contento",
-                    "satisfecho"
+                    "Triste",
+                    "Enojado",
+                    "Contento",
+                    "Serio"
+                ]
+            },
+            {
+                "titulo": "Encuentra el sinónimo de GRANDE",
+                "respuesta": "Enorme",
+                "puntos": 1,
+                "explicacion": "Piensa en algo que tiene un tamaño muy considerable, que ocupa mucho espacio.",
+                "imagen": "assets/nivel-1/grande.png",
+                "opciones": [
+                    "Pequeño",
+                    "Enorme",
+                    "Corto",
+                    "Débil"
+                ]
+            },
+            {
+                "titulo": "Selecciona el sinónimo de RÁPIDO",
+                "respuesta": "Veloz",
+                "puntos": 1,
+                "explicacion": "Se refiere a la capacidad de moverse o actuar con mucha celeridad.",
+                "imagen": "assets/nivel-1/rapido.png",
+                "opciones": [
+                    "Lento",
+                    "Pesado",
+                    "Veloz",
+                    "Duro"
+                ]
+            },
+            {
+                "titulo": "Adivina el sinónimo de BONITO",
+                "respuesta": "Hermoso",
+                "puntos": 1,
+                "explicacion": "Describe algo que agrada mucho a la vista, que es muy atractivo.",
+                "imagen": "assets/nivel-1/bonito.png",
+                "opciones": [
+                    "Feo",
+                    "Sucio",
+                    "Hermoso",
+                    "Raro"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de EMPUJAR",
+                "respuesta": "Impulsar",
+                "puntos": 1,
+                "explicacion": "Es la acción de aplicar fuerza para mover algo hacia adelante o lejos de uno.",
+                "imagen": "assets/nivel-1/empujar.png",
+                "opciones": [
+                    "Tirar",
+                    "Romper",
+                    "Impulsar",
+                    "Pegar"
+                ]
+            },
+            {
+                "titulo": "Encuentra el sinónimo de FÁCIL",
+                "respuesta": "Sencillo",
+                "puntos": 1,
+                "explicacion": "Se dice de aquello que no presenta complicaciones ni esfuerzo para hacerse.",
+                "imagen": "assets/nivel-1/facil.png",
+                "opciones": [
+                    "Difícil",
+                    "Complicado",
+                    "Sencillo",
+                    "Pesado"
+                ]
+            },
+            {
+                "titulo": "Selecciona el sinónimo de PEGAR",
+                "respuesta": "Adherir",
+                "puntos": 1,
+                "explicacion": "Es la acción de unir o fijar una cosa a otra, a menudo con alguna sustancia.",
+                "imagen": "assets/nivel-1/rodar.png",
+                "opciones": [
+                    "Separar",
+                    "Cortar",
+                    "Adherir",
+                    "Romper"
+                ]
+            },
+            {
+                "titulo": "Adivina el sinónimo de HABLAR",
+                "respuesta": "Conversar",
+                "puntos": 1,
+                "explicacion": "Se refiere al acto de comunicarse verbalmente, intercambiando palabras.",
+                "imagen": "assets/nivel-1/hablar.png",
+                "opciones": [
+                    "Callar",
+                    "Escuchar",
+                    "Conversar",
+                    "Gritar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de COMENZAR",
+                "respuesta": "Iniciar",
+                "puntos": 1,
+                "explicacion": "Es la acción de dar inicio o principio a algo, de arrancar.",
+                "imagen": "assets/nivel-1/comienzo.png",
+                "opciones": [
+                    "Terminar",
+                    "Acabar",
+                    "Iniciar",
+                    "Finalizar"
+                ]
+            },
+            {
+                "titulo": "Encuentra el sinónimo de LIMPIO",
+                "respuesta": "Pulcro",
+                "puntos": 1,
+                "explicacion": "Describe algo o a alguien que está libre de suciedad o manchas, muy aseado.",
+                "imagen": "assets/nivel-1/limpiar.png",
+                "opciones": [
+                    "Sucio",
+                    "Desordenado",
+                    "Pulcro",
+                    "Viejo"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de ESCUCHAR",
+                "respuesta": "Oír",
+                "puntos": 1,
+                "explicacion": "Es la acción de percibir sonidos con el sentido del oído.",
+                "imagen": "assets/nivel-1/escuchar.png",
+                "opciones": [
+                    "Ver",
+                    "Hablar",
+                    "Oír",
+                    "Tocar"
+                ]
+            },
+            {
+                "titulo": "Encuentra el sinónimo de OSCURO",
+                "respuesta": "Tenebroso",
+                "puntos": 1,
+                "explicacion": "Se refiere a la falta de luz o a algo sombrío y poco visible.",
+                "imagen": "assets/nivel-1/oscuro.png",
+                "opciones": [
+                    "Claro",
+                    "Brillante",
+                    "Tenebroso",
+                    "Ruidoso"
+                ]
+            },
+            {
+                "titulo": "Selecciona el sinónimo de SUBIR",
+                "respuesta": "Ascender",
+                "puntos": 1,
+                "explicacion": "Es la acción de moverse hacia un lugar más alto.",
+                "imagen": "assets/nivel-1/incrementar.png",
+                "opciones": [
+                    "Bajar",
+                    "Caer",
+                    "Ascender",
+                    "Rodar"
+                ]
+            },
+            {
+                "titulo": "Adivina el sinónimo de Fuerte",
+                "respuesta": "Robusto",
+                "puntos": 1,
+                "explicacion": "Describe algo o alguien con gran resistencia o vigor.",
+                "imagen": "assets/nivel-1/musculo.png",
+                "opciones": [
+                    "Débil",
+                    "Frágil",
+                    "Robusto",
+                    "Lento"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de CERRAR",
+                "respuesta": "Clausurar",
+                "puntos": 1,
+                "explicacion": "Es la acción de impedir el paso o la apertura de algo.",
+                "imagen": "assets/nivel-1/cerrado.png",
+                "opciones": [
+                    "Abrir",
+                    "Entrar",
+                    "Clausurar",
+                    "Romper"
+                ]
+            },
+            {
+                "titulo": "Encuentra el sinónimo de TRISTE",
+                "respuesta": "Afligido",
+                "puntos": 1,
+                "explicacion": "Es un sentimiento de pena o desánimo.",
+                "imagen": "assets/nivel-1/triste.png",
+                "opciones": [
+                    "Feliz",
+                    "Alegre",
+                    "Afligido",
+                    "Enojado"
+                ]
+            },
+            {
+                "titulo": "Selecciona el sinónimo de SILENCIO",
+                "respuesta": "Calma",
+                "puntos": 1,
+                "explicacion": "Es la ausencia total de ruido o sonido.",
+                "imagen": "assets/nivel-1/silencio.png",
+                "opciones": [
+                    "Ruido",
+                    "Grito",
+                    "Calma",
+                    "Música"
+                ]
+            },
+            {
+                "titulo": "Adivina el sinónimo de ANDAR",
+                "respuesta": "Caminar",
+                "puntos": 1,
+                "explicacion": "Se refiere a la acción de moverse dando pasos.",
+                "imagen": "assets/nivel-1/caminar.png",
+                "opciones": [
+                    "Correr",
+                    "Saltar",
+                    "Caminar",
+                    "Dormir"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de COMPRAR",
+                "respuesta": "Adquirir",
+                "puntos": 1,
+                "explicacion": "Es la acción de obtener algo a cambio de dinero.",
+                "imagen": "assets/nivel-1/metodo-de-pago.png",
+                "opciones": [
+                    "Vender",
+                    "Regalar",
+                    "Adquirir",
+                    "Prestar"
+                ]
+            },
+            {
+                "titulo": "Encuentra el sinónimo de POBRE",
+                "respuesta": "Necesitado",
+                "puntos": 1,
+                "explicacion": "Se refiere a la condición de tener pocos recursos o carecer de lo necesario.",
+                "imagen": "assets/nivel-1/hucha.png",
+                "opciones": [
+                    "Rico",
+                    "Abundante",
+                    "Necesitado",
+                    "Lujoso"
                 ]
             }
         ]
