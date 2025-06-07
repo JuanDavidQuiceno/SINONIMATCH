@@ -1,0 +1,398 @@
+{
+    "1": {
+        "time": 30,
+        "score_min": 10,
+        "pregunta": [
+            {
+                "titulo": "¿Cuál es el antónimo de 'feliz'?",
+                "respuesta": "triste",
+                "puntos": 10,
+                "explicacion": "El antónimo de 'feliz' es 'triste'.",
+                "imagen": "https://example.com/antonym_feliz.jpg",
+                "opciones": [
+                    "triste",
+                    "alegre",
+                    "contento",
+                    "satisfecho"
+                ]
+            },
+            {
+                "titulo": "¿Qué es un sinónimo de 'rápido'?",
+                "respuesta": "veloz",
+                "puntos": 10,
+                "explicacion": "Un sinónimo de 'rápido' es 'veloz'.",
+                "imagen": "https://example.com/sinonimo_rapido.jpg",
+                "opciones": [
+                    "lento",
+                    "rápido",
+                    "ágil",
+                    "veloz"
+                ]
+            },
+            {
+                "titulo": "¿Cuál es el plural de 'lápiz'?",
+                "respuesta": "lápices",
+                "puntos": 10,
+                "explicacion": "El plural correcto de 'lápiz' es 'lápices'.",
+                "imagen": "https://example.com/plural_lapiz.jpg",
+                "opciones": [
+                    "lápizs",
+                    "lápices",
+                    "lápiceses",
+                    "lápizs"
+                ]
+            },
+            {
+                "titulo": "¿Qué significa la palabra 'amigo'?",
+                "respuesta": "persona con la que se tiene una relación de afecto",
+                "puntos": 10,
+                "explicacion": "'Amigo' es una persona con la que se tiene una relación de afecto.",
+                "imagen": "https://example.com/definicion_amigo.jpg",
+                "opciones": [
+                    "persona con la que se tiene una relación de afecto",
+                    "conocido",
+                    "extraño",
+                    "enemigo"
+                ]
+            },
+            {
+                "titulo": "¿Cuál es el antónimo de 'grande'?",
+                "respuesta": "pequeño",
+                "puntos": 10,
+                "explicacion": "El antónimo de 'grande' es 'pequeño'.",
+                "imagen": "https://example.com/antonym_grande.jpg",
+                "opciones": [
+                    "enorme",
+                    "grande",
+                    "gigante",
+                    "pequeño"
+                ]
+            },
+            {
+                "titulo": "¿Qué palabra es un sinónimo de 'inteligente'?",
+                "respuesta": "listo",
+                "puntos": 10,
+                "explicacion": "Un sinónimo de 'inteligente' es 'listo'.",
+                "imagen": "https://example.com/sinonimo_inteligente.jpg",
+                "opciones": [
+                    "tonto",
+                    "torpe",
+                    "lento",
+                    "listo"
+                ]
+            },
+            {
+                "titulo": "¿Qué es un sinónimo de 'hermoso'?",
+                "respuesta": "bello",
+                "puntos": 10,
+                "explicacion": "'Hermoso' y 'bello' tienen un significado similar.",
+                "imagen": "https://example.com/sinonimo_hermoso.jpg",
+                "opciones": [
+                    "feo",
+                    "triste",
+                    "bello",
+                    "opaco"
+                ]
+            },
+            {
+                "titulo": "¿Cuál es el plural de 'pez'?",
+                "respuesta": "peces",
+                "puntos": 10,
+                "explicacion": "El plural de 'pez' es 'peces'.",
+                "imagen": "https://example.com/plural_pez.jpg",
+                "opciones": [
+                    "pezes",
+                    "peces",
+                    "pezs",
+                    "peceses"
+                ]
+            },
+            {
+                "titulo": "¿Qué significa 'valiente'?",
+                "respuesta": "persona que enfrenta el peligro sin miedo",
+                "puntos": 10,
+                "explicacion": "'Valiente' es quien enfrenta el peligro sin miedo.",
+                "imagen": "https://example.com/definicion_valiente.jpg",
+                "opciones": [
+                    "persona que enfrenta el peligro sin miedo",
+                    "miedoso",
+                    "tímido",
+                    "curioso"
+                ]
+            },
+            {
+                "titulo": "¿Cuál es el antónimo de 'oscuro'?",
+                "respuesta": "claro",
+                "puntos": 10,
+                "explicacion": "El antónimo de 'oscuro' es 'claro'.",
+                "imagen": "https://example.com/antonym_oscuro.jpg",
+                "opciones": [
+                    "negro",
+                    "claro",
+                    "apagado",
+                    "gris"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 11?",
+                "respuesta": "respuesta_11",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_11'.",
+                "imagen": "https://example.com/pregunta_11.jpg",
+                "opciones": [
+                    "opción_a_11",
+                    "respuesta_11",
+                    "opción_b_11",
+                    "opción_c_11"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 12?",
+                "respuesta": "respuesta_12",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_12'.",
+                "imagen": "https://example.com/pregunta_12.jpg",
+                "opciones": [
+                    "opción_a_12",
+                    "respuesta_12",
+                    "opción_b_12",
+                    "opción_c_12"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 13?",
+                "respuesta": "respuesta_13",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_13'.",
+                "imagen": "https://example.com/pregunta_13.jpg",
+                "opciones": [
+                    "opción_a_13",
+                    "respuesta_13",
+                    "opción_b_13",
+                    "opción_c_13"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 14?",
+                "respuesta": "respuesta_14",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_14'.",
+                "imagen": "https://example.com/pregunta_14.jpg",
+                "opciones": [
+                    "opción_a_14",
+                    "respuesta_14",
+                    "opción_b_14",
+                    "opción_c_14"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 15?",
+                "respuesta": "respuesta_15",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_15'.",
+                "imagen": "https://example.com/pregunta_15.jpg",
+                "opciones": [
+                    "opción_a_15",
+                    "respuesta_15",
+                    "opción_b_15",
+                    "opción_c_15"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 16?",
+                "respuesta": "respuesta_16",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_16'.",
+                "imagen": "https://example.com/pregunta_16.jpg",
+                "opciones": [
+                    "opción_a_16",
+                    "respuesta_16",
+                    "opción_b_16",
+                    "opción_c_16"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 17?",
+                "respuesta": "respuesta_17",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_17'.",
+                "imagen": "https://example.com/pregunta_17.jpg",
+                "opciones": [
+                    "opción_a_17",
+                    "respuesta_17",
+                    "opción_b_17",
+                    "opción_c_17"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 18?",
+                "respuesta": "respuesta_18",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_18'.",
+                "imagen": "https://example.com/pregunta_18.jpg",
+                "opciones": [
+                    "opción_a_18",
+                    "respuesta_18",
+                    "opción_b_18",
+                    "opción_c_18"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 19?",
+                "respuesta": "respuesta_19",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_19'.",
+                "imagen": "https://example.com/pregunta_19.jpg",
+                "opciones": [
+                    "opción_a_19",
+                    "respuesta_19",
+                    "opción_b_19",
+                    "opción_c_19"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 20?",
+                "respuesta": "respuesta_20",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_20'.",
+                "imagen": "https://example.com/pregunta_20.jpg",
+                "opciones": [
+                    "opción_a_20",
+                    "respuesta_20",
+                    "opción_b_20",
+                    "opción_c_20"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 21?",
+                "respuesta": "respuesta_21",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_21'.",
+                "imagen": "https://example.com/pregunta_21.jpg",
+                "opciones": [
+                    "opción_a_21",
+                    "respuesta_21",
+                    "opción_b_21",
+                    "opción_c_21"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 22?",
+                "respuesta": "respuesta_22",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_22'.",
+                "imagen": "https://example.com/pregunta_22.jpg",
+                "opciones": [
+                    "opción_a_22",
+                    "respuesta_22",
+                    "opción_b_22",
+                    "opción_c_22"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 23?",
+                "respuesta": "respuesta_23",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_23'.",
+                "imagen": "https://example.com/pregunta_23.jpg",
+                "opciones": [
+                    "opción_a_23",
+                    "respuesta_23",
+                    "opción_b_23",
+                    "opción_c_23"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 24?",
+                "respuesta": "respuesta_24",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_24'.",
+                "imagen": "https://example.com/pregunta_24.jpg",
+                "opciones": [
+                    "opción_a_24",
+                    "respuesta_24",
+                    "opción_b_24",
+                    "opción_c_24"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 25?",
+                "respuesta": "respuesta_25",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_25'.",
+                "imagen": "https://example.com/pregunta_25.jpg",
+                "opciones": [
+                    "opción_a_25",
+                    "respuesta_25",
+                    "opción_b_25",
+                    "opción_c_25"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 26?",
+                "respuesta": "respuesta_26",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_26'.",
+                "imagen": "https://example.com/pregunta_26.jpg",
+                "opciones": [
+                    "opción_a_26",
+                    "respuesta_26",
+                    "opción_b_26",
+                    "opción_c_26"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 27?",
+                "respuesta": "respuesta_27",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_27'.",
+                "imagen": "https://example.com/pregunta_27.jpg",
+                "opciones": [
+                    "opción_a_27",
+                    "respuesta_27",
+                    "opción_b_27",
+                    "opción_c_27"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 28?",
+                "respuesta": "respuesta_28",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_28'.",
+                "imagen": "https://example.com/pregunta_28.jpg",
+                "opciones": [
+                    "opción_a_28",
+                    "respuesta_28",
+                    "opción_b_28",
+                    "opción_c_28"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 29?",
+                "respuesta": "respuesta_29",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_29'.",
+                "imagen": "https://example.com/pregunta_29.jpg",
+                "opciones": [
+                    "opción_a_29",
+                    "respuesta_29",
+                    "opción_b_29",
+                    "opción_c_29"
+                ]
+            },
+            {
+                "titulo": "¿Pregunta de ejemplo número 30?",
+                "respuesta": "respuesta_30",
+                "puntos": 10,
+                "explicacion": "La respuesta correcta es 'respuesta_30'.",
+                "imagen": "https://example.com/pregunta_30.jpg",
+                "opciones": [
+                    "opción_a_30",
+                    "respuesta_30",
+                    "opción_b_30",
+                    "opción_c_30"
+                ]
+            }
+        ]
+    }
+}
