@@ -1,0 +1,1 @@
+Segmentar los recursos que se incluyan en carpetas y por tipos
