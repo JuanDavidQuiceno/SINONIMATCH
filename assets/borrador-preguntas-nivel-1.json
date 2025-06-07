@@ -1,0 +1,76 @@
+{
+    "1": {
+        "time": 30,
+        "score_min": 10,
+        "pregunta": [
+            {
+                "titulo": "Cual es el antónimo de 'feliz'?",
+                "respuesta": "triste",
+                "puntos": 10,
+                "explicacion": "El antónimo de 'feliz' es 'triste'.",
+                "imagen": "assets/demo/recomendaciones2.txt",
+                "opciones": [
+                    "triste",
+                    "alegre",
+                    "contento",
+                    "satisfecho"
+                ]
+            }
+        ]
+    },
+    "2": {
+        "tiempo": 45,
+        "pregunta": [
+            {
+                "titulo": "¿Cuál es un antónimo de 'efímero'?",
+                "respuesta": "duradero",
+                "opciones": [
+                    "corto",
+                    "fugaz",
+                    "pasajero",
+                    "duradero"
+                ]
+            },
+            {
+                "titulo": "¿Qué palabra es un sinónimo de 'perspicaz'?",
+                "respuesta": "astuto",
+                "opciones": [
+                    "torpe",
+                    "astuto",
+                    "perezoso",
+                    "débil"
+                ]
+            },
+            {
+                "titulo": "¿Cuál es el plural correcto de 'régimen'?",
+                "respuesta": "regímenes",
+                "opciones": [
+                    "régimenes",
+                    "regímenes",
+                    "régimens",
+                    "regímen"
+                ]
+            },
+            {
+                "titulo": "¿Qué significa la palabra 'melancolía'?",
+                "respuesta": "tristeza profunda y prolongada",
+                "opciones": [
+                    "alegría intensa",
+                    "tristeza profunda y prolongada",
+                    "desinterés pasajero",
+                    "emocionalidad exagerada"
+                ]
+            },
+            {
+                "titulo": "¿Cuál es el antónimo de 'generoso'?",
+                "respuesta": "egoísta",
+                "opciones": [
+                    "egoísta",
+                    "altruista",
+                    "solidario",
+                    "bondadoso"
+                ]
+            }
+        ]
+    }
+}
