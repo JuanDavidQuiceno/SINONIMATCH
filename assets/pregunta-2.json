@@ -1,0 +1,398 @@
+{
+  "2": {
+    "time": 30,
+    "score_min": 10,
+    "pregunta": [
+      {
+        "titulo": "¿Cuál es el antónimo de 'rápido'?",
+        "respuesta": "lento",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'rápido' es 'lento'.",
+        "imagen": "https://example.com/antonym_rapido.jpg",
+        "opciones": [
+          "lento",
+          "veloz",
+          "ligero",
+          "ágil"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'oscuro'?",
+        "respuesta": "claro",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'oscuro' es 'claro'.",
+        "imagen": "https://example.com/antonym_oscuro.jpg",
+        "opciones": [
+          "claro",
+          "negro",
+          "apagado",
+          "gris"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'grande'?",
+        "respuesta": "pequeño",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'grande' es 'pequeño'.",
+        "imagen": "https://example.com/antonym_grande.jpg",
+        "opciones": [
+          "pequeño",
+          "amplio",
+          "gigante",
+          "alto"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'nuevo'?",
+        "respuesta": "viejo",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'nuevo' es 'viejo'.",
+        "imagen": "https://example.com/antonym_nuevo.jpg",
+        "opciones": [
+          "viejo",
+          "moderno",
+          "último",
+          "reciente"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'caliente'?",
+        "respuesta": "frío",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'caliente' es 'frío'.",
+        "imagen": "https://example.com/antonym_caliente.jpg",
+        "opciones": [
+          "frío",
+          "hirviendo",
+          "templado",
+          "tibio"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'duro'?",
+        "respuesta": "blando",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'duro' es 'blando'.",
+        "imagen": "https://example.com/antonym_duro.jpg",
+        "opciones": [
+          "blando",
+          "firme",
+          "rígido",
+          "sólido"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'cerca'?",
+        "respuesta": "lejos",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'cerca' es 'lejos'.",
+        "imagen": "https://example.com/antonym_cerca.jpg",
+        "opciones": [
+          "lejos",
+          "al lado",
+          "próximo",
+          "cercano"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'alto'?",
+        "respuesta": "bajo",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'alto' es 'bajo'.",
+        "imagen": "https://example.com/antonym_alto.jpg",
+        "opciones": [
+          "bajo",
+          "elevado",
+          "grande",
+          "largo"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'feliz'?",
+        "respuesta": "triste",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'feliz' es 'triste'.",
+        "imagen": "https://example.com/antonym_feliz.jpg",
+        "opciones": [
+          "triste",
+          "alegre",
+          "contento",
+          "satisfecho"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'rico'?",
+        "respuesta": "pobre",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'rico' es 'pobre'.",
+        "imagen": "https://example.com/antonym_rico.jpg",
+        "opciones": [
+          "pobre",
+          "adinerado",
+          "millonario",
+          "lujoso"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'abierto'?",
+        "respuesta": "cerrado",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'abierto' es 'cerrado'.",
+        "imagen": "https://example.com/antonym_abierto.jpg",
+        "opciones": [
+          "cerrado",
+          "destapado",
+          "descubierto",
+          "amplio"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'fácil'?",
+        "respuesta": "difícil",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'fácil' es 'difícil'.",
+        "imagen": "https://example.com/antonym_facil.jpg",
+        "opciones": [
+          "difícil",
+          "simple",
+          "sencillo",
+          "ligero"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'viejo'?",
+        "respuesta": "nuevo",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'viejo' es 'nuevo'.",
+        "imagen": "https://example.com/antonym_viejo.jpg",
+        "opciones": [
+          "nuevo",
+          "antiguo",
+          "usado",
+          "pasado"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'limpio'?",
+        "respuesta": "sucio",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'limpio' es 'sucio'.",
+        "imagen": "https://example.com/antonym_limpio.jpg",
+        "opciones": [
+          "sucio",
+          "aseado",
+          "ordenado",
+          "claro"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'amable'?",
+        "respuesta": "grosero",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'amable' es 'grosero'.",
+        "imagen": "https://example.com/antonym_amable.jpg",
+        "opciones": [
+          "grosero",
+          "educado",
+          "simpático",
+          "atento"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'duro'?",
+        "respuesta": "suave",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'duro' es 'suave'.",
+        "imagen": "https://example.com/antonym_duro2.jpg",
+        "opciones": [
+          "suave",
+          "áspero",
+          "rígido",
+          "tosco"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'valiente'?",
+        "respuesta": "cobarde",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'valiente' es 'cobarde'.",
+        "imagen": "https://example.com/antonym_valiente.jpg",
+        "opciones": [
+          "cobarde",
+          "audaz",
+          "atrevido",
+          "osado"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'lleno'?",
+        "respuesta": "vacío",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'lleno' es 'vacío'.",
+        "imagen": "https://example.com/antonym_lleno.jpg",
+        "opciones": [
+          "vacío",
+          "saturado",
+          "completo",
+          "repleto"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'temprano'?",
+        "respuesta": "tarde",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'temprano' es 'tarde'.",
+        "imagen": "https://example.com/antonym_temprano.jpg",
+        "opciones": [
+          "tarde",
+          "antes",
+          "pronto",
+          "mañana"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'ganar'?",
+        "respuesta": "perder",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'ganar' es 'perder'.",
+        "imagen": "https://example.com/antonym_ganar.jpg",
+        "opciones": [
+          "perder",
+          "vencer",
+          "triunfar",
+          "lograr"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'subir'?",
+        "respuesta": "bajar",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'subir' es 'bajar'.",
+        "imagen": "https://example.com/antonym_subir.jpg",
+        "opciones": [
+          "bajar",
+          "escalar",
+          "trepar",
+          "ascender"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'encender'?",
+        "respuesta": "apagar",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'encender' es 'apagar'.",
+        "imagen": "https://example.com/antonym_encender.jpg",
+        "opciones": [
+          "apagar",
+          "iluminar",
+          "alumbrar",
+          "prender"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'hablar'?",
+        "respuesta": "callar",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'hablar' es 'callar'.",
+        "imagen": "https://example.com/antonym_hablar.jpg",
+        "opciones": [
+          "callar",
+          "gritar",
+          "decir",
+          "contar"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'fuerte'?",
+        "respuesta": "débil",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'fuerte' es 'débil'.",
+        "imagen": "https://example.com/antonym_fuerte.jpg",
+        "opciones": [
+          "débil",
+          "intenso",
+          "potente",
+          "robusto"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'alegre'?",
+        "respuesta": "triste",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'alegre' es 'triste'.",
+        "imagen": "https://example.com/antonym_alegre.jpg",
+        "opciones": [
+          "triste",
+          "contento",
+          "divertido",
+          "jovial"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'inteligente'?",
+        "respuesta": "tonto",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'inteligente' es 'tonto'.",
+        "imagen": "https://example.com/antonym_inteligente.jpg",
+        "opciones": [
+          "tonto",
+          "sabio",
+          "astuto",
+          "lúcido"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'bajo'?",
+        "respuesta": "alto",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'bajo' es 'alto'.",
+        "imagen": "https://example.com/antonym_bajo.jpg",
+        "opciones": [
+          "alto",
+          "pequeño",
+          "hondo",
+          "plano"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'débil'?",
+        "respuesta": "fuerte",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'débil' es 'fuerte'.",
+        "imagen": "https://example.com/antonym_debil.jpg",
+        "opciones": [
+          "fuerte",
+          "suave",
+          "ligero",
+          "flaco"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'pesado'?",
+        "respuesta": "ligero",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'pesado' es 'ligero'.",
+        "imagen": "https://example.com/antonym_pesado.jpg",
+        "opciones": [
+          "ligero",
+          "firme",
+          "robusto",
+          "grueso"
+        ]
+      },
+      {
+        "titulo": "¿Cuál es el antónimo de 'largo'?",
+        "respuesta": "corto",
+        "puntos": 10,
+        "explicacion": "El antónimo de 'largo' es 'corto'.",
+        "imagen": "https://example.com/antonym_largo.jpg",
+        "opciones": [
+          "corto",
+          "extenso",
+          "alto",
+          "ancho"
+        ]
+      }
+    ]
+  }
+}
