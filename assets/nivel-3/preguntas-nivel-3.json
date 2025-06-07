@@ -28,6 +28,19 @@
                     "Contento",
                     "Serio"
                 ]
+            },
+            {
+                "titulo": "Elige el sinónimo de FELIZ",
+                "respuesta": "Contento",
+                "puntos": 1,
+                "explicacion": "Es un estado de ánimo que se siente cuando todo va bien y hay alegría.",
+                "imagen": "assets/nivel-1/cara-feliz.png",
+                "opciones": [
+                    "Triste",
+                    "Enojado",
+                    "Contento",
+                    "Serio"
+                ]
             }
         ]
     }
