@@ -4,42 +4,523 @@
         "score_min": 10,
         "pregunta": [
             {
-                "titulo": "Elige el sinónimo de FELIZ",
-                "respuesta": "Contento",
+                "titulo": "Elige el sinónimo de RÁPIDO",
+                "respuesta": "Veloz",
                 "puntos": 1,
-                "explicacion": "Es un estado de ánimo que se siente cuando todo va bien y hay alegría.",
-                "imagen": "assets/nivel-1/cara-feliz.png",
+                "explicacion": "Ambos indican que algo se mueve o sucede con gran velocidad.",
+                "imagen": "assets/nivel-1/coche-rapido.png",
                 "opciones": [
-                    "Triste",
-                    "Enojado",
-                    "Contento",
-                    "Serio"
+                    "Lento",
+                    "Pesado",
+                    "Veloz",
+                    "Tardío"
                 ]
             },
             {
-                "titulo": "Elige el sinónimo de FELIZ",
-                "respuesta": "Contento",
+                "titulo": "Elige el sinónimo de GRANDE",
+                "respuesta": "Enorme",
                 "puntos": 1,
-                "explicacion": "Es un estado de ánimo que se siente cuando todo va bien y hay alegría.",
-                "imagen": "assets/nivel-1/cara-feliz.png",
+                "explicacion": "Enorme es otra forma de decir que algo es muy grande.",
+                "imagen": "assets/nivel-1/elefante.png",
                 "opciones": [
-                    "Triste",
-                    "Enojado",
-                    "Contento",
-                    "Serio"
+                    "Pequeño",
+                    "Enorme",
+                    "Corto",
+                    "Angosto"
                 ]
             },
             {
-                "titulo": "Elige el sinónimo de FELIZ",
-                "respuesta": "Contento",
+                "titulo": "Elige el sinónimo de INTELIGENTE",
+                "respuesta": "Listo",
                 "puntos": 1,
-                "explicacion": "Es un estado de ánimo que se siente cuando todo va bien y hay alegría.",
-                "imagen": "assets/nivel-1/cara-feliz.png",
+                "explicacion": "Listo es una palabra que se usa para describir a alguien con capacidad mental destacada.",
+                "imagen": "assets/nivel-1/cerebro.png",
                 "opciones": [
-                    "Triste",
-                    "Enojado",
-                    "Contento",
-                    "Serio"
+                    "Tonto",
+                    "Flojo",
+                    "Listo",
+                    "Perezoso"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de HERMOSO",
+                "respuesta": "Bello",
+                "puntos": 1,
+                "explicacion": "Bello también significa que algo o alguien es muy bonito o agradable a la vista.",
+                "imagen": "assets/nivel-1/flor-bonita.png",
+                "opciones": [
+                    "Feo",
+                    "Bello",
+                    "Ruidoso",
+                    "Opaco"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de TERMINAR",
+                "respuesta": "Finalizar",
+                "puntos": 1,
+                "explicacion": "Finalizar es una forma de decir que algo ha llegado a su fin.",
+                "imagen": "assets/nivel-1/meta.png",
+                "opciones": [
+                    "Comenzar",
+                    "Reiniciar",
+                    "Finalizar",
+                    "Suspender"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de LLORAR",
+                "respuesta": "Sollozar",
+                "puntos": 1,
+                "explicacion": "Sollozar significa llorar con sonidos suaves y entrecortados.",
+                "imagen": "assets/nivel-1/llanto.png",
+                "opciones": [
+                    "Reír",
+                    "Sollozar",
+                    "Bostezar",
+                    "Gritar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de SILENCIOSO",
+                "respuesta": "Callado",
+                "puntos": 1,
+                "explicacion": "Callado es una persona o lugar que no emite ruido.",
+                "imagen": "assets/nivel-1/silencio.png",
+                "opciones": [
+                    "Ruidoso",
+                    "Callado",
+                    "Bullicioso",
+                    "Hablador"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de AMIGO",
+                "respuesta": "Compañero",
+                "puntos": 1,
+                "explicacion": "Compañero es una palabra usada para referirse a alguien con quien se tiene una relación cercana y de confianza.",
+                "imagen": "assets/nivel-1/amigos.png",
+                "opciones": [
+                    "Desconocido",
+                    "Enemigo",
+                    "Compañero",
+                    "Extraño"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de CASA",
+                "respuesta": "Hogar",
+                "puntos": 1,
+                "explicacion": "Hogar es otra forma de referirse al lugar donde vive una persona.",
+                "imagen": "assets/nivel-1/casa.png",
+                "opciones": [
+                    "Escuela",
+                    "Hogar",
+                    "Oficina",
+                    "Parque"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de COMER",
+                "respuesta": "Alimentarse",
+                "puntos": 1,
+                "explicacion": "Alimentarse es el acto de ingerir alimentos para nutrirse.",
+                "imagen": "assets/nivel-1/comida.png",
+                "opciones": [
+                    "Dormir",
+                    "Alimentarse",
+                    "Beber",
+                    "Caminar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de PEQUEÑO",
+                "respuesta": "Diminuto",
+                "puntos": 1,
+                "explicacion": "Diminuto también significa algo de tamaño muy reducido.",
+                "imagen": "assets/nivel-1/raton.png",
+                "opciones": [
+                    "Grande",
+                    "Alto",
+                    "Diminuto",
+                    "Pesado"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de ASUSTADO",
+                "respuesta": "Temeroso",
+                "puntos": 1,
+                "explicacion": "Temeroso describe a alguien que siente miedo.",
+                "imagen": "assets/nivel-1/miedo.png",
+                "opciones": [
+                    "Valiente",
+                    "Temeroso",
+                    "Feliz",
+                    "Tranquilo"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de LIMPIO",
+                "respuesta": "Aseado",
+                "puntos": 1,
+                "explicacion": "Aseado también quiere decir que algo está libre de suciedad.",
+                "imagen": "assets/nivel-1/jabon.png",
+                "opciones": [
+                    "Sucio",
+                    "Aseado",
+                    "Manchado",
+                    "Gris"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de APAGAR",
+                "respuesta": "Extinguir",
+                "puntos": 1,
+                "explicacion": "Extinguir significa hacer que algo, como una luz o fuego, deje de estar encendido.",
+                "imagen": "assets/nivel-1/fuego-apagado.png",
+                "opciones": [
+                    "Encender",
+                    "Extinguir",
+                    "Brillar",
+                    "Calentar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de CAMINAR",
+                "respuesta": "Andar",
+                "puntos": 1,
+                "explicacion": "Andar es otra forma común de decir caminar.",
+                "imagen": "assets/nivel-1/caminar.png",
+                "opciones": [
+                    "Saltar",
+                    "Andar",
+                    "Correr",
+                    "Rodar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de ESCUCHAR",
+                "respuesta": "Oír",
+                "puntos": 1,
+                "explicacion": "Oír es un sinónimo directo de escuchar, aunque escuchar implica más atención.",
+                "imagen": "assets/nivel-1/oreja.png",
+                "opciones": [
+                    "Ver",
+                    "Oír",
+                    "Callar",
+                    "Tocar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de AYUDAR",
+                "respuesta": "Colaborar",
+                "puntos": 1,
+                "explicacion": "Colaborar es trabajar con alguien para conseguir un objetivo común.",
+                "imagen": "assets/nivel-1/ayuda.png",
+                "opciones": [
+                    "Molestar",
+                    "Colaborar",
+                    "Ignorar",
+                    "Culpar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de CONTENTO",
+                "respuesta": "Alegre",
+                "puntos": 1,
+                "explicacion": "Alegre es una palabra que también se usa para expresar felicidad.",
+                "imagen": "assets/nivel-1/cara-alegre.png",
+                "opciones": [
+                    "Alegre",
+                    "Aburrido",
+                    "Molesto",
+                    "Dormido"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de RESPONDER",
+                "respuesta": "Contestar",
+                "puntos": 1,
+                "explicacion": "Contestar es otra forma de decir que se da una respuesta a algo.",
+                "imagen": "assets/nivel-1/chat.png",
+                "opciones": [
+                    "Preguntar",
+                    "Contestar",
+                    "Reclamar",
+                    "Copiar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de OBSCURO",
+                "respuesta": "Oscuro",
+                "puntos": 1,
+                "explicacion": "Obscuro y oscuro se consideran sinónimos, aunque 'oscuro' es más usado hoy en día.",
+                "imagen": "assets/nivel-1/noche.png",
+                "opciones": [
+                    "Brillante",
+                    "Claro",
+                    "Oscuro",
+                    "Luminoso"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de CANSADO",
+                "respuesta": "Fatigado",
+                "puntos": 1,
+                "explicacion": "Fatigado es un sinónimo de cansado, utilizado cuando alguien ha hecho mucho esfuerzo.",
+                "imagen": "assets/nivel-3/persona-agotada.png",
+                "opciones": [
+                    "Animado",
+                    "Despierto",
+                    "Fatigado",
+                    "Activo"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de RUIDO",
+                "respuesta": "Estrépito",
+                "puntos": 1,
+                "explicacion": "Estrépito significa un ruido muy fuerte o molesto.",
+                "imagen": "assets/nivel-3/ruido.png",
+                "opciones": [
+                    "Susurro",
+                    "Silencio",
+                    "Estrépito",
+                    "Eco"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de DIFÍCIL",
+                "respuesta": "Complicado",
+                "puntos": 1,
+                "explicacion": "Complicado indica que algo no es fácil de hacer o entender.",
+                "imagen": "assets/nivel-3/rompecabezas.png",
+                "opciones": [
+                    "Sencillo",
+                    "Complicado",
+                    "Rápido",
+                    "Abierto"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de INTENTAR",
+                "respuesta": "Probar",
+                "puntos": 1,
+                "explicacion": "Probar significa hacer un esfuerzo por conseguir algo, igual que intentar.",
+                "imagen": "assets/nivel-3/niño-intentando.png",
+                "opciones": [
+                    "Olvidar",
+                    "Probar",
+                    "Evitar",
+                    "Esperar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de OCULTO",
+                "respuesta": "Escondido",
+                "puntos": 1,
+                "explicacion": "Escondido se usa cuando algo está fuera de la vista, al igual que oculto.",
+                "imagen": "assets/nivel-3/tesoro.png",
+                "opciones": [
+                    "Visible",
+                    "Escondido",
+                    "Claro",
+                    "Presente"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de OBSERVAR",
+                "respuesta": "Contemplar",
+                "puntos": 1,
+                "explicacion": "Contemplar significa mirar con atención o admiración.",
+                "imagen": "assets/nivel-3/binoculares.png",
+                "opciones": [
+                    "Ignorar",
+                    "Contemplar",
+                    "Descuidar",
+                    "Evitar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de VALIENTE",
+                "respuesta": "Intrépido",
+                "puntos": 1,
+                "explicacion": "Intrépido es alguien que actúa sin miedo ante el peligro.",
+                "imagen": "assets/nivel-3/superheroe.png",
+                "opciones": [
+                    "Cobarde",
+                    "Intrépido",
+                    "Tímido",
+                    "Temeroso"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de GENEROSO",
+                "respuesta": "Altruista",
+                "puntos": 1,
+                "explicacion": "Altruista describe a alguien que piensa en los demás y comparte sin esperar algo a cambio.",
+                "imagen": "assets/nivel-3/donacion.png",
+                "opciones": [
+                    "Altruista",
+                    "Avaro",
+                    "Egoísta",
+                    "Cerrado"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de EXPLICAR",
+                "respuesta": "Aclarar",
+                "puntos": 1,
+                "explicacion": "Aclarar es hacer algo comprensible o más fácil de entender, como explicar.",
+                "imagen": "assets/nivel-3/docente.png",
+                "opciones": [
+                    "Ocultar",
+                    "Aclarar",
+                    "Confundir",
+                    "Reclamar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de DUDAR",
+                "respuesta": "Vacilar",
+                "puntos": 1,
+                "explicacion": "Vacilar puede significar tener dudas o no estar seguro de una decisión.",
+                "imagen": "assets/nivel-3/interrogante.png",
+                "opciones": [
+                    "Afirmar",
+                    "Vacilar",
+                    "Confirmar",
+                    "Decidir"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de PERSEVERANTE",
+                "respuesta": "Constante",
+                "puntos": 1,
+                "explicacion": "Constante describe a una persona que se esfuerza de forma continua sin rendirse.",
+                "imagen": "assets/nivel-3/perseverante.png",
+                "opciones": [
+                    "Impaciente",
+                    "Intermitente",
+                    "Constante",
+                    "Frágil"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de MELANCOLÍA",
+                "respuesta": "Tristeza",
+                "puntos": 1,
+                "explicacion": "La melancolía es una forma profunda de tristeza, a veces sin causa clara.",
+                "imagen": "assets/nivel-3/melancolia.png",
+                "opciones": [
+                    "Alegría",
+                    "Tristeza",
+                    "Irritación",
+                    "Duda"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de INUSUAL",
+                "respuesta": "Extraordinario",
+                "puntos": 1,
+                "explicacion": "Extraordinario significa fuera de lo común, como algo inusual o raro.",
+                "imagen": "assets/nivel-3/inusual.png",
+                "opciones": [
+                    "Ordinario",
+                    "Extraordinario",
+                    "Regular",
+                    "Predecible"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de DISCRETO",
+                "respuesta": "Reservado",
+                "puntos": 1,
+                "explicacion": "Una persona discreta también es reservada: actúa con prudencia y sin llamar la atención.",
+                "imagen": "assets/nivel-3/discreto.png",
+                "opciones": [
+                    "Impulsivo",
+                    "Reservado",
+                    "Extrovertido",
+                    "Escandaloso"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de DESTACAR",
+                "respuesta": "Sobresalir",
+                "puntos": 1,
+                "explicacion": "Sobresalir implica ser más visible o notable que otros en una actividad o lugar.",
+                "imagen": "assets/nivel-3/destacar.png",
+                "opciones": [
+                    "Esconder",
+                    "Aplanar",
+                    "Sobresalir",
+                    "Emparejar"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de COMPLEJO",
+                "respuesta": "Intrincado",
+                "puntos": 1,
+                "explicacion": "Intrincado es algo enredado o difícil de entender, igual que complejo.",
+                "imagen": "assets/nivel-3/complicado.png",
+                "opciones": [
+                    "Simple",
+                    "Rápido",
+                    "Intrincado",
+                    "Evidente"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de VINCULAR",
+                "respuesta": "Relacionar",
+                "puntos": 1,
+                "explicacion": "Vincular es establecer una conexión o relación entre elementos o personas.",
+                "imagen": "assets/nivel-3/conexion.png",
+                "opciones": [
+                    "Separar",
+                    "Relacionar",
+                    "Ignorar",
+                    "Excluir"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de EFÍMERO",
+                "respuesta": "Pasajero",
+                "puntos": 1,
+                "explicacion": "Pasajero significa que dura poco tiempo, igual que efímero.",
+                "imagen": "assets/nivel-3/efimero.png",
+                "opciones": [
+                    "Eterno",
+                    "Duradero",
+                    "Pasajero",
+                    "Fijo"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de EVIDENTE",
+                "respuesta": "Manifiesto",
+                "puntos": 1,
+                "explicacion": "Manifiesto es algo tan claro que no necesita explicación.",
+                "imagen": "assets/nivel-3/evidente.png",
+                "opciones": [
+                    "Oculto",
+                    "Manifiesto",
+                    "Ambiguo",
+                    "Dudoso"
+                ]
+            },
+            {
+                "titulo": "Elige el sinónimo de DETALLADO",
+                "respuesta": "Minucioso",
+                "puntos": 1,
+                "explicacion": "Minucioso se refiere a algo hecho con mucho cuidado y atención a cada detalle.",
+                "imagen": "assets/nivel-3/detallado.png",
+                "opciones": [
+                    "Superficial",
+                    "General",
+                    "Minucioso",
+                    "Ligero"
                 ]
             }
         ]
